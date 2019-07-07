@@ -1,4 +1,4 @@
-#! /usr/bin/perl
+#! /home/nittaj/miniconda3/envs/eupoly2_capture/bin/perl
 
 # Load perl modules #
 use warnings;
